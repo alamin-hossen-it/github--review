@@ -11,4 +11,13 @@
 
 4. Git workflow
 
+5. Merge conflict
+ - 
+
+main branch -> index.html ->
+feature-skill2 branch -> index.html -> Java
+main branch -> index.html -> Python
+
+6. How to resolve merge conflict
+
   computer - github
