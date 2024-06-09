@@ -4,8 +4,11 @@
 
 2. Basic configuration
 3. SSH Key
+
  - ssh key genarate
  - we got 2 key public & privet key
  - ssh public key add to github
 
-computer - github
+4. Git workflow
+
+  computer - github
